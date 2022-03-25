@@ -1,4 +1,4 @@
-# [rsschool-cv](https://github.com/Nyar1othotep "cv.md")
+# [rsschool-cv](https://nyar1othotep.github.io/rsschool-cv/cv "cv.md")
 1. I\`m Maxim Minin
 2. Contacts:
     + freelancerart@yandex.ru
