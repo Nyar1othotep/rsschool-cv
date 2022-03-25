@@ -25,7 +25,7 @@ function localStoragePortfolio() {
         }
     })
 }
-localStoragePortfolio()
+localStoragePortfolio();
 ```
 6. [RVK renovation of residential premises](https://nyar1othotep.github.io/RVK-renovation-of-residential-premises/ "RVK")
 
