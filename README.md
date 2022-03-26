@@ -1,1 +1,2 @@
-# [rsschool-cv](https://nyar1othotep.github.io/rsschool-cv/cv "cv.md")
+# rsschool-cv
+[https://nyar1othotep.github.io/rsschool-cv/](https://nyar1othotep.github.io/rsschool-cv/ "cv")
