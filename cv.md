@@ -10,6 +10,7 @@ Specialty: Developer of web and multimedia applications. Every day I learn web d
     + JS (Basic)
     + Vue.js (Begginer)
     + MySQL
+    + PHP (Begginer)
     + Git
     + Figma, Photoshop, Illustator, Adobe XD
     + BEM methodology
