@@ -31,6 +31,8 @@ localStoragePortfolio();
 6. [RVK renovation of residential premises](https://nyar1othotep.github.io/RVK-renovation-of-residential-premises/ "RVK")
 
    [AR Lens (Coursework for college)](https://nyar1othotep.github.io/Courswork2/ "AR Lens")
+
+   [AR Lens (Portfolio)]( https://rolling-scopes-school.github.io/nyar1othotep-JSFEPRESCHOOL/portfolio/ "Portfolio")
 7. Third-year student of the Ulyanovsk Aviation College
 8. A1 (Every day I learn English for 3 hours)
    
